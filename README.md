@@ -52,7 +52,7 @@ def _lookup_words(input_text):
 ```
 
 
-### Text to Features (Feature Engineering on text data)
+## Text to Features (Feature Engineering on text data)
 To analyse a preprocessed data, it needs to be converted into features. Depending upon the usage, text features can be constructed using assorted techniques 
 * Syntactical Parsing 
 * Entities Extraction 
@@ -61,3 +61,7 @@ To analyse a preprocessed data, it needs to be converted into features. Dependin
     * Topic Modeling
 * Statistical features
 * Word embeddings
+
+#### Word embedding 
+Word Embeddings is the modern way of representing words as vectors. The aim of word embedding is to redefine the high dimensional word features into low dimensional feature vectors by preserving the contextual similarity in the corpus. They are widely used in deep learning models such as Convolutional Neural Networks and Recurrent Neural Networks.
+
