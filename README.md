@@ -50,3 +50,14 @@ def _lookup_words(input_text):
         new_words.append(word) new_text = " ".join(new_words) 
         return new_text
 ```
+
+
+### Text to Features (Feature Engineering on text data)
+To analyse a preprocessed data, it needs to be converted into features. Depending upon the usage, text features can be constructed using assorted techniques 
+* Syntactical Parsing 
+* Entities Extraction 
+    * NER (Named Entity Extraction)
+    * N-grams / word-based features
+    * Topic Modeling
+* Statistical features
+* Word embeddings
