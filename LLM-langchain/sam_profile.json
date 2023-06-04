@@ -1,0 +1,514 @@
+{
+	"public_identifier": "samarthtandon991",
+	"profile_pic_url": null,
+	"background_cover_image_url": null,
+	"first_name": "Samarth",
+	"last_name": "Tandon",
+	"full_name": "Samarth Tandon",
+	"follower_count": null,
+	"occupation": "Senior Data Scientist at TomTom",
+	"headline": "Senior Data Scientist| Deep Learning | Azure |ML-OPS |Computer vision| Ex-Nvidia",
+	"summary": "Data scientist with 7 years of experience in Deep learning and Machine learning with hands on experience in python and frameworks like Py-Torch,Keras , Tensor-flow and Tf-lite.Lead data scientist for Health care startup to  leverage ML/DL and acoustics to provide invasive testing of  lung based diseases.Key skills include : - Machine Learning, Neural Networks  and Deep learning - Convolutional Neural Networks - Digital Image Processing - Hands on in Facial detection and recognition via DNN- Embedded System design.- Wireless Sensor Networks.  -Technical Presentations, Public SeminarsHardware Platforms:Arduino ,Raspberry Pi, Nvidia Jetson Nano , Nvidia Jetson NxLanguages:C , C++, Python ,MATLAB- Editor , CUDA,Scala",
+	"country": "IN",
+	"country_full_name": "India",
+	"city": "Pune",
+	"state": "Maharashtra",
+	"experiences": [{
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2022
+		},
+		"ends_at": null,
+		"company": "TomTom",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/tomtom/",
+		"title": "Senior Data Scientist",
+		"description": null,
+		"location": "Pune, Maharashtra, India",
+		"logo_url": "https://media.licdn.com/dms/image/D4E0BAQEp2Gvhh-zjGQ/company-logo_400_400/0/1667371078806?e=1692835200&v=beta&t=GOik4uexy1l4UWzFFx8lEHNzmTWCIedkaYANOaX33Ag"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2021
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2022
+		},
+		"company": "Faurecia",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/faurecia/",
+		"title": "Data Scientist",
+		"description": "Work with Faurecia internal clients to understand and propose State of the Art AI solution to enhance and Automate the entire quality assessment process in Manufacturing sectors using advanced Computer vision and Data Processing techniques.Use advanced Generative Adversarial networks to mimic design of Components designed on Solid works and AutoCad to create real-time images of NOK products to improve Data Quality.Developed state of the art algorithms for Vibration/Frequency based data gathered from Faurecia OEM Actuators and Develop AI / Deep Learning algorithm to analyze system Acoustics.Manage team of Data Scientist for model development using Azure-develops and creating CI/CD or ETL pipelines for E2E development and deployment .",
+		"location": "Pune division, Maharashtra, India",
+		"logo_url": "https://media.licdn.com/dms/image/C560BAQFHDpLLrrNodg/company-logo_400_400/0/1649059072952?e=1692835200&v=beta&t=WjAa6SKZa58e3VjhicFbPrJMovcgOSveF4IgWBpvZsw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2019
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2020
+		},
+		"company": "NVIDIA",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/nvidia/",
+		"title": "Tools Development Engineer",
+		"description": " Develop AI tools to create scenario for testing Autonomous driving vehicles in different conditions using image to image translation techniques .  Worked as sole contributor in NVIDIA Deep Stream project to evaluate KPI performances on Edge computing devices by deploying various AI Models using Orchestration Engine. Develop test cases to analyze the Driver Behavior activities inside Autonomous driving vehicles with AI to monitor facial gestures and drowsiness detection.",
+		"location": "Pune Area, India",
+		"logo_url": "https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_400_400/0/1561949205873?e=1692835200&v=beta&t=rrprFZYhFeScwchxpIl5spa1Oc6X53yAqdccgSKB4WA"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2018
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2019
+		},
+		"company": "NVIDIA",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/nvidia/",
+		"title": "Senior Software Engineer",
+		"description": " Analyze GPS/Sensors logs from the Autonomous Driving vehicle black box and create a road map to identify the conditions leading to AI-failure and switching vehicle from Autonomous to Manual mode.  Measure E2E Latency from an event generation till model inference , to analyze the response time of various Deep Neural Networks for making safer autonomous driving vehicle  Evaluating Perception KPI including Lane detection, distance calibration and time to collision and automating multiple scenarios for performance Tracking.",
+		"location": "Pune Area, India",
+		"logo_url": "https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_400_400/0/1561949205873?e=1692835200&v=beta&t=rrprFZYhFeScwchxpIl5spa1Oc6X53yAqdccgSKB4WA"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2017
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2018
+		},
+		"company": "NVIDIA",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/nvidia/",
+		"title": "Software Engineer",
+		"description": " Analyze the performance of Deep-Learning stack to evaluate performance of multiple Deep neural networks responsible for object/Lane detection and event tracking.  Evaluate NVIDIA multiple Networks and analyze the performance associated with the Deep neural networks and provide detail statistics. Analyzing the performance of the Autonomous Driving vehicle by measuring Mean Autonomous Distance traveled and track performance on daily basis.",
+		"location": "Pune Area, India",
+		"logo_url": "https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_400_400/0/1561949205873?e=1692835200&v=beta&t=rrprFZYhFeScwchxpIl5spa1Oc6X53yAqdccgSKB4WA"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 11,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2017
+		},
+		"company": "CDAC",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/cdacindia/",
+		"title": "Senior Project Associate",
+		"description": "Develop Facial recognition and tracking system as a part of smart city Surveillance system Developed various deep learning algorithms for facial recognition techniques using  various Deep   Learning frameworks like Theano , Tensorflow and keras .  Used a deep neural network to represent (or embed) the face on a 128-dimensional unit hypersphere.   The embedding is a generic representation for anybody face The techniques uses a concept called as Bag of Feature to extract feature embedding and then used in classical ML techniques to perform clustering or classification.",
+		"location": "Hyderabad Area, India",
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQHsh6b7kt7tEQ/company-logo_400_400/0/1578294217220?e=1692835200&v=beta&t=uNWyrajQ-Nj7xCL7_QYbsghEvsFlhqh0-oS3xWQfQrU"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 10,
+			"year": 2016
+		},
+		"company": "CDAC",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/cdacindia/",
+		"title": "Project Associate",
+		"description": "Develop Smart Surveillance System -Part of Central government Smart city Project  R&D on Facial detection domain from bare CCTV cameras and videos using advanced Machine   Learning and Deep Learning Techniques .  Developed Face detection using CNN Face Detector , as a   part of implementation of Research Paper . Developed a Face Masking Algorithm to mask 68 facial points Face and and generates a  probability of   the points for occluded faces",
+		"location": "Hyderabad Area, India",
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQHsh6b7kt7tEQ/company-logo_400_400/0/1578294217220?e=1692835200&v=beta&t=uNWyrajQ-Nj7xCL7_QYbsghEvsFlhqh0-oS3xWQfQrU"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2015
+		},
+		"company": "Nexus Engiconsults- Alliance patner National Instruments",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/niglobal/",
+		"title": "System Engineer",
+		"description": " In Nexus Engiconsults an Alliance partner of National Instruments , I worked as Technical systems designer and was also responsible for Business Development . Sucessfully completed three Projects in  Automation and Testing domain.    - INDO GERMAN -Trigeneration Plant AIIMS  - Philips India   - Involve in technical meetings and discussions   with the end user as a part of Business Development",
+		"location": "Delhi Area, India",
+		"logo_url": "https://media.licdn.com/dms/image/C560BAQHcpmsrLx1mig/company-logo_400_400/0/1657053360507?e=1692835200&v=beta&t=AvYb1v1ovbGkOww85R493IjLQPtLEhu70un1MrqpSqs"
+	}],
+	"education": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2018
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2019
+		},
+		"field_of_study": "Machine Learning and Artificial Intelligence",
+		"degree_name": "Master of Technology - MTech",
+		"school": "International Institute of Information Technology Bangalore",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/D560BAQFEoOigRO63qg/company-logo_400_400/0/1664105399908?e=1692835200&v=beta&t=lIbFUGegmrjBtSFfj-sBO_Z590MRvkUg4KOQJ4xMP5E",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2015
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2016
+		},
+		"field_of_study": "Embedded Systems",
+		"degree_name": "Post Graduate Diploma Field Of Study Embedded Systems ",
+		"school": "CDAC Hyderabad",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": null,
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2010
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2014
+		},
+		"field_of_study": "Electronics and Communications Engineering",
+		"degree_name": "Bacheloru2019s Degree",
+		"school": "KRISHNA INSTITUTE OF ENGINEERING AND TECHNOLOGY, GHAZIABAD",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQHct20x6WgUog/company-logo_400_400/0/1553840093227?e=1692835200&v=beta&t=Yqk2s-PwCNx3O23vARJlcsT7LVJX-QWh6NXfkyZBgHY",
+		"grade": null,
+		"activities_and_societies": null
+	}],
+	"languages": ["English", "Hindi"],
+	"accomplishment_organisations": [{
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2017
+		},
+		"org_name": "CDAC Hyderabad",
+		"title": "Project Engineer",
+		"description": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2015
+		},
+		"org_name": "National Instruments",
+		"title": "System Designer",
+		"description": null
+	}],
+	"accomplishment_publications": [{
+		"name": "Detection of tuberculosis by automatic cough sound analysis",
+		"publisher": "NCBI",
+		"published_on": {
+			"day": 1,
+			"month": 1,
+			"year": 2018
+		},
+		"description": null,
+		"url": "https://www.ncbi.nlm.nih.gov/pubmed/29543189"
+	}],
+	"accomplishment_honors_awards": [{
+		"title": "Intel HPC devcon",
+		"issuer": "Intel",
+		"issued_on": {
+			"day": 1,
+			"month": 12,
+			"year": 2016
+		},
+		"description": "Ranked 3rd in the Intel HPC devcon event organized for code optimization and parallel computing  ."
+	}, {
+		"title": "Nation wide top 30 rank in C-CAT",
+		"issuer": "C-DAC  Common Admission Test",
+		"issued_on": {
+			"day": 1,
+			"month": 8,
+			"year": 2015
+		},
+		"description": "Centre for Development of Advanced Computing"
+	}],
+	"accomplishment_patents": [],
+	"accomplishment_courses": [],
+	"accomplishment_projects": [{
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2016
+		},
+		"ends_at": null,
+		"title": "CNN based Face Detection algorithm ",
+		"description": "This Face detection algorithm runs on advanced Deep Neural network which uses Convolutional Neural Network to predict faces in various poses and angles . The algorithm uses the latest Max Margin object detection Algorithm provided by dlib , which uses high high quality detectors to detect object . The Algorithm implements face detection using CNN as the prime feature extractor . The Detector is also reasonably fast and takes 350 ms on CPU and less than 20 ms with NVIDIA GTX 1080 .",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2016
+		},
+		"ends_at": null,
+		"title": "Smart Surveillance - Smart City",
+		"description": "Smart Surveillance is one of the Indian Government project under the Ministry of Electronics & Information Technology (MEITY) for carrying out R&D in IT, Electronics and associated areas.The project involves deployment of surveillance cameras with artificial intelligence to detect and recognize the person for multiple purposes like fast security access, Surveillance, detection of any suspicious person from video stream , remote Monitoring .The system uses complex Deep learning and Machine Learning techniques . The project involves following heads :- Face Detection - Face Recognition- Event Tracking and Event Recognition - Deploy Deep learning algorithms for feature extraction.-Involves complex Convolutional Neural Net Architecture for face detection and RecognitionPlatforms/ Tools:MATLAB -Testing , Python 2.7(Numpy/open CV/Scipy), Neural Networks , Machine Learning,Python - Keras and Theano ",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 10,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 10,
+			"year": 2014
+		},
+		"title": "Trigeneration Monitoring system at AIIMS- New Delhi",
+		"description": "Trigeneration or combined cooling, heat and power (CCHP), is the process by which some of the heat produced by a cogeneration plant is used to generate chilled water for air conditioning or refrigeration.The plant was setup by INDO GERMAN organization at the AIIMS -TRIGEN facility in New DelhiProject involves - Data Acquisition of various parameters like current , voltage ,Temperature and pressure from various sensors.- Testing and monitoring of all the sensor data and storing at the backend and determining various parameters like cost reduction and emission related parameters Hardware platform used are NI-CRIO and voltage and current cards for data acquisition .",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2014
+		},
+		"title": "Wireless Gesture control System",
+		"description": "The Wireless Gesture control system is used to control / guide the motion of a robot using hand gestures . These Gestures are the flex movements of the wrist for controlling forward backward left and right motions .The system uses Accelerometer to understand the gesture patterns and communicate to the robot wirelessly (XBEE protocol is used ) . Hardware Platform :- Arduino UNO - XBEE- 2 Axis AccelerometerSoftware Platform- Arduino IDE/Embeded C   ",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2015
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2015
+		},
+		"title": "Triple Axis Autonomic Flight Control system",
+		"description": "Triple  axis flight control systems uses a three axis IMU (Accelerometer + Gyroscope) sensor to calibrate the three axis motion of aerial vehicles. The control is provided for three axis of motion(YAW, PITCH, ROLL). Data from the IMU sensor is used to control the servo motors which actuates the motion of ailerons and flaps to control the flight trajectory.Hardware Platform   - Arduino , Raspbery Pi , ARM BoardSoftware Platform- Raspbian OS, Embedded C , Arduino IDE  ",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2014
+		},
+		"title": "Gesture based Home Automation system",
+		"description": "Gesture based Home Automation system can control the home appliances just by using hand gestures. The flex movements are used to ON /OFF your home appliances. Later functionality may be added for controlling voltage levels and other parameters.Platform -  Arduino UNO , Dual Axis Accelerometer .",
+		"url": null
+	}],
+	"accomplishment_test_scores": [],
+	"volunteer_work": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2017
+		},
+		"title": "Consultant Data Scientist",
+		"cause": "HEALTH",
+		"company": "Docturnal ",
+		"company_linkedin_profile_url": null,
+		"description": "Docturnal , an start-up based in Hyderabad provides non-invasive screening applications.The recent product TimBre for Tuberculosis launched which allows individuals to screen at home or office in a non-invasive manner after downloading the applications from Play Store.As a Data scientist , my role comes into picture as Data scientist  to process the sound data and perform signal processing to extract parameters which characterize the cough of a Healthy person from that of TB patient. http://www.docturnal.com/about-us/ https://www.ncbi.nlm.nih.gov/pubmed/29543189",
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2016
+		},
+		"ends_at": null,
+		"title": "Research and development",
+		"cause": null,
+		"company": "CDACINDIA ",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/cdacindia/",
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQHsh6b7kt7tEQ/company-logo_400_400/0/1578294217220?e=1692835200&v=beta&t=uNWyrajQ-Nj7xCL7_QYbsghEvsFlhqh0-oS3xWQfQrU"
+	}],
+	"certifications": [{
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2020
+		},
+		"ends_at": null,
+		"name": "Computer Vision with OpenCV and Deep Learning",
+		"license_number": "UC-366ceb28-75b7-460a-8c08-2acc835dc10c",
+		"display_source": "udemy.com",
+		"authority": "Udemy",
+		"url": "https://nvidia.udemy.com/certificate/UC-366ceb28-75b7-460a-8c08-2acc835dc10c/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2020
+		},
+		"ends_at": null,
+		"name": "Python Developer",
+		"license_number": "UC-93063abf-e2b5-450a-bf2f-82d69b9f594b",
+		"display_source": "udemy.com",
+		"authority": "Udemy",
+		"url": "https://nvidia.udemy.com/certificate/UC-93063abf-e2b5-450a-bf2f-82d69b9f594b/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2015
+		},
+		"ends_at": null,
+		"name": "Post Graduation Diploma in Embedded Systems",
+		"license_number": null,
+		"display_source": null,
+		"authority": "CDACINDIA ",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2014
+		},
+		"ends_at": null,
+		"name": "RT and FPGA",
+		"license_number": null,
+		"display_source": null,
+		"authority": "NI (National Instruments)",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2013
+		},
+		"ends_at": null,
+		"name": "MATLAB",
+		"license_number": null,
+		"display_source": null,
+		"authority": "CETPA Infotech Pvt. ltd.",
+		"url": null
+	}],
+	"connections": null,
+	"people_also_viewed": [{
+		"link": "https://www.linkedin.com/in/aman-chourasia",
+		"name": "aman chourasia",
+		"summary": "Senior Data Scientist at TomTom",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/avinashnpathak",
+		"name": "Avinash P.",
+		"summary": "Lead | Data Scientist | NLP | ML | Applied Scientist",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/hanuamant-datascientist-ai-ml",
+		"name": "Hanumant Naiknaware",
+		"summary": "Data Scientist at Faurecia - Computer vision, Machine Learning and deep Learning",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/munjal-patel",
+		"name": "Munjal Patel",
+		"summary": "Senior MLOps Engineer @ Nvidia | Helping organizations turn AI/ML Ideas to Production ready solutions | Lover of all things Data Science",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/shubh-mehrotra-01",
+		"name": "Shubh mehrotra",
+		"summary": "Student at Dayananda Sagar Institutions",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/sualeh-qureshi-5b628a148",
+		"name": "Sualeh Qureshi",
+		"summary": "Software Engineer | Machine Learning at TomTom",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/divyanshu-banerjee-757744157",
+		"name": "divyanshu banerjee",
+		"summary": "Project Engineer at CDAC Centre for Development of Advanced Computing",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/birend-singh-bb4582102",
+		"name": "BIREND SINGH",
+		"summary": "Senior ML Engineer @ EY | Machine Learning | MLOps | Azure DevOps",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/bharadwaj-pasumarti-24633374",
+		"name": "Bharadwaj Pasumarti",
+		"summary": "Lead Graphic designer at State Street",
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/tanushree-mahajan-9096",
+		"name": "Tanushree Mahajan",
+		"summary": "Mark Roberts Motion Control | Computer Vision | AI",
+		"location": null
+	}],
+	"recommendations": [],
+	"activities": [],
+	"similarly_named_profiles": [],
+	"articles": [],
+	"groups": [],
+	"phone_numbers": [],
+	"social_networking_services": [],
+	"skills": ["Python (Programming Language)", "Convolutional Neural Networks (CNN)", "PyTorch", "Azure DevOps Server", "Azure Databricks", "Azure Data Lake", "Azure Functions", "Azure Virtual Machines", "Support Vector Machine (SVM)", "PySpark", "Microsoft Azure Machine Learning", "OpenCV", "Cloud Computing", "Amazon Web Services (AWS)", "AWS Lambda", "AWS SageMaker", "Amazon EC2", "Deep Learning", "Deep Reinforcement Learning", "Machine Learning"],
+	"inferred_salary": {
+		"min": null,
+		"max": null
+	},
+	"gender": null,
+	"birth_date": null,
+	"industry": null,
+	"extra": {
+		"github_profile_id": null,
+		"twitter_profile_id": null,
+		"facebook_profile_id": null
+	},
+	"interests": [],
+	"personal_emails": [],
+	"personal_numbers": []
+}
